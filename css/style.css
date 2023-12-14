@@ -1,0 +1,136 @@
+
+body{
+    background-color: #A8A8A8;
+       background-image: url(https://i.postimg.cc/fy55hVdB/wall.jpg);
+    background-repeat: no-repeat;
+    background-size: 2200px;
+    
+}
+ul{
+    list-style-type: none;
+}
+
+ul li h1{
+    font-size: 90px;
+    font-family: 'Roboto', sans-serif;
+    color: #BF0000;
+    margin-bottom: 0;
+}
+ul h2{
+    font-size:39px;
+    font-weight: 100;
+    margin-top: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: darkgrey
+}
+.li1{
+ margin-left: 190px;
+    margin-top: 270px;
+    float: left;
+}
+.li2{
+    float: left;
+    margin-left:300px ;
+    margin-top: 130px ;
+
+    
+}
+.login-section{
+    width: 395px;
+    height: 360px ;
+    background:#720101;
+    ;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    float: left;
+    margin-top: 94px;
+    margin-left: 90px;
+    margin-bottom: 30px;
+}
+input[type="text"],input[type="password"]{
+    margin-left: 17px;
+    width: 339px;
+    padding: 12px;
+    border-radius: 8px;
+    font-size: 19px;
+    border: 1px solid #DDDFE2;
+}
+input[type="text"]{
+    background-color: white;
+    color: black;
+    margin-top: 20px;
+    
+    
+    
+}
+input[type="password"]{
+    margin-top: 12px
+    
+}
+.button1{
+    margin-left: 17px;
+    ;
+    height: 50px;
+    width: 365px;
+    border-radius: 8px;
+    font-weight: bold;
+    color: #BF0000;
+    background-color:#3A3535;
+    border: 1px solid;
+    font-size: 20px;
+    
+}
+.button1:hover{
+    cursor: pointer;
+     background-color: #302B2B;
+}
+hr{
+    border: 0.px solid #DADDE1;
+    width: 350px;
+    opacity: 0.3;
+    margin-top: 30px;
+    margin-bottom: 20px
+    
+}
+.button2{
+    margin-left: 100px;
+    font-weight: bold;
+    padding: 15px;
+    color: white;
+    background-color:#EF0909; 
+    font-size: 16px;
+    border:1px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 16px;
+}
+.button2:hover{
+    cursor: pointer;
+    background-color: #D80A0A;
+}
+
+.a1{ 
+margin-left: 130px;
+ text-decoration: none;
+ color: #FF5E5E;
+}
+
+.a1:hover{
+    text-decoration: underline;
+}
+.login-bottom-section .a2{
+    margin-left: 136px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;color: darkgray
+}
+.login-bottom-section .a2:hover{
+    text-decoration: underline;
+    
+}
+.b1{
+    font-weight: 10;
+    font-size: 15px;
+    color: darkgrey
+}
